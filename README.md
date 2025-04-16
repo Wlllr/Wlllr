@@ -6,14 +6,14 @@ Sou Weller de Souza Pereira, tenho 26 anos e sou natural da Paraíba. Estudante 
 
 
 <p align="left">
-    <a href="https://account.microsoft.com/profile/">
+    <a href="mailto:weller_pereira@hotmail.com?subject=Contato%20via%20site&body=Olá%2C%20gostaria%20de%20entrar%20em%20contato.">
         <img 
             alt="E-mail outlook" 
             title="Entre em contato" 
             src="https://camo.githubusercontent.com/b71c2627ed44847b8d0837461e3ced5959257880509444b168d3c886241f529c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465"
         />
     </a>
-    <a href="https://myaccount.google.com/?utm_source=OGB&utm_medium=app">
+    <a href="mailto:ujeller@gmail.com?subject=Contato%20via%20site&body=Olá%2C%20gostaria%20de%20entrar%20em%20contato.">
         <img 
             alt="E-mail gmail" 
             title="Entre em contato" 
