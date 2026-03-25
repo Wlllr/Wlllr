@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Sou Weller de Souza Pereira, tenho 26 anos e sou natural da Paraíba. Estudante de Desenvolvimento de Software e estagiário na Diretoria de Ensino Superior da Reitoria do IFPB, atuando com análise e organização de dados. Tenho conhecimentos em Java, Spring, APIs REST, SQL e bancos de dados relacionais, além de noções de front-end. Participei de projetos práticos com CRUDs, integração de sistemas e tenho uma bagagem de dados realizando coleta, análise e organização de dados para apoiar processos institucionais. Atualmente, estou em busca da minha primeira oportunidade na área de Desenvolvimento Back-end. Sou apaixonado por tecnologia, esportes e música! É através do meu linkedIn "[Weller de Souza](https://www.linkedin.com/in/weller-de-souza-2bb68b222/)", e aqui no Github onde compartilho um pouco da minha jornada de conhecimento.
+Técnico em Informática pelo IFPB com experiência em suporte, infraestrutura e banco de dados Oracle/MySQL. Atuo no setor varejista utilizando o ERP Winthor para gestão de dados e processos fiscais. Aplico conhecimentos de desenvolvimento e construção de APIs para criar ferramentas que otimizam a tomada de decisão e resolvam problemas técnicos complexos do ambiente de TI. Meu linkedIn "[Weller de Souza](https://www.linkedin.com/in/weller-de-souza-2bb68b222/)".
 
 
 <p align="left">
