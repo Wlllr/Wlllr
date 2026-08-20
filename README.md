@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Técnico em Informática pelo IFPB com experiência em suporte, infraestrutura e banco de dados Oracle/MySQL. Atuo no setor varejista utilizando o ERP Winthor para gestão de dados e processos fiscais. Aplico conhecimentos de desenvolvimento e construção de APIs para criar ferramentas que otimizam a tomada de decisão e resolvam problemas técnicos complexos do ambiente de TI. Meu linkedIn "[Weller de Souza](https://www.linkedin.com/in/weller-de-souza-2bb68b222/)".
+Técnico em Informática pelo IFPB com experiência em suporte, infraestrutura e banco de dados Oracle/MySQL. Atuo no setor atacadista utilizando o ERP Winthor para gestão de dados e processos fiscais. Aplico conhecimentos de desenvolvimento e construção de APIs para criar ferramentas que otimizam a tomada de decisão e resolvam problemas técnicos complexos do ambiente de TI. Meu linkedIn "[Weller de Souza](https://www.linkedin.com/in/weller-de-souza-2bb68b222/)".
 
 
 <p align="left">
